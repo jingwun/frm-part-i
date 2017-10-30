@@ -4,7 +4,7 @@ modal-id: 2
 date: 2017-10-30
 img: course2.png
 icon: construction.png
-launch: #newsletter
+launch: subscribe
 button: Subscribe
 buttonpic: fa fa-envelope-o
 alt: image-alt
